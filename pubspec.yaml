@@ -1,0 +1,5 @@
+name: adhkar_dart_hisn_muslim_indexer
+description: "Hisn Al-Muslim (Fortress of the Muslim) 132-Chapter Authenticated Index"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
